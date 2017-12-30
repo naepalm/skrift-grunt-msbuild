@@ -7,20 +7,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website\", "{5A9
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55710"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..\GitHub\skrift-grunt-msbuild\Website\"
+		Debug.AspNetCompiler.PhysicalPath = "Website\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55710\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_55710"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..\GitHub\skrift-grunt-msbuild\Website\"
+		Release.AspNetCompiler.PhysicalPath = "Website\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55710\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55710"
+		SlnRelativePath = "Website\"
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skrift", "Skrift\Skrift.csproj", "{A57BC08F-93AB-4B66-94A3-60B469BDA1C9}"
