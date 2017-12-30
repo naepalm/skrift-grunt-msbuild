@@ -1,0 +1,10 @@
+C:\Users\naepa\Desktop\Skrift\Skrift\bin\Debug\Skrift.dll
+C:\Users\naepa\Desktop\Skrift\Skrift\bin\Debug\Skrift.pdb
+C:\Users\naepa\Desktop\Skrift\Skrift\obj\Debug\Skrift.csprojResolveAssemblyReference.cache
+C:\Users\naepa\Desktop\Skrift\Skrift\obj\Debug\Skrift.dll
+C:\Users\naepa\Desktop\Skrift\Skrift\obj\Debug\Skrift.pdb
+C:\Github\skrift-grunt-msbuild\Skrift\bin\Debug\Skrift.dll
+C:\Github\skrift-grunt-msbuild\Skrift\bin\Debug\Skrift.pdb
+C:\Github\skrift-grunt-msbuild\Skrift\obj\Debug\Skrift.csprojResolveAssemblyReference.cache
+C:\Github\skrift-grunt-msbuild\Skrift\obj\Debug\Skrift.dll
+C:\Github\skrift-grunt-msbuild\Skrift\obj\Debug\Skrift.pdb
